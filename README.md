@@ -9,10 +9,10 @@ hyperparameter tuning with 5-fold cross-validation, directly improving clinical 
 • Published a patent under AI & Healthcare domain, demonstrating novel contribution; research validated against industry standards. 
 
 
-# 🤰 Fetal Health Prediction using Explainable AI and Ensemble Machine Learning 
+# Fetal Health Prediction using Explainable AI and Ensemble Machine Learning 
 An Automated Machine Learning System for Accurate and Interpretable Fetal Health Prediction using Cardiotocography (CTG) Data
-
-📌 Overview
+ 
+# Overview
 Fetal health monitoring is critical for detecting early signs of fetal distress and preventing adverse pregnancy outcomes. Traditional interpretation of Cardiotocography (CTG) recordings often depends on expert judgment, leading to inconsistencies and delayed diagnosis.The system combines advanced feature selection, class imbalance handling, ensemble learning, and SHAP-based explainability to provide clinically interpretable predictions.This project presents an Explainable Artificial Intelligence (XAI) powered fetal health prediction system that automatically analyzes CTG measurements and classifies fetal conditions into:
 ✅ Normal
 ⚠️ Suspect
