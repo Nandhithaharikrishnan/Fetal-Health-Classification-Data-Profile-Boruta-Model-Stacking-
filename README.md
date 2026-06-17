@@ -1,3 +1,6 @@
+# Fetal Health Prediction using Explainable AI and Ensemble Machine Learning - Patent Published
+An Automated Machine Learning System for Accurate and Interpretable Fetal Health Prediction using Cardiotocography (CTG) Data
+
 # Tech Stack: Python, Data Profile, Boruta Algorithm, Model Stacking, Ensemble Learning 
 • Challenge: CTG datasets (2,126 records, 21 features) suffer from class imbalance and redundant features, causing baseline models to 
 misclassify pathological cases at 28% false-positive rate. Applied Boruta feature selection to reduce from 21 to 11 features and stacked 
@@ -7,10 +10,6 @@ ensemble(Random Forest + XGBoost + Logistic meta-learner).
 hyperparameter tuning with 5-fold cross-validation, directly improving clinical triage precision by 15%. 
 
 • Published a patent under AI & Healthcare domain, demonstrating novel contribution; research validated against industry standards. 
-
-
-# Fetal Health Prediction using Explainable AI and Ensemble Machine Learning 
-An Automated Machine Learning System for Accurate and Interpretable Fetal Health Prediction using Cardiotocography (CTG) Data
  
 # Overview
 Fetal health monitoring is critical for detecting early signs of fetal distress and preventing adverse pregnancy outcomes. Traditional interpretation of Cardiotocography (CTG) recordings often depends on expert judgment, leading to inconsistencies and delayed diagnosis.The system combines advanced feature selection, class imbalance handling, ensemble learning, and SHAP-based explainability to provide clinically interpretable predictions.This project presents an Explainable Artificial Intelligence (XAI) powered fetal health prediction system that automatically analyzes CTG measurements and classifies fetal conditions into:
