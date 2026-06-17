@@ -1,5 +1,5 @@
 # Fetal Health Prediction using Explainable AI and Ensemble Machine Learning - Patent Published
-An Automated Machine Learning System for Accurate and Interpretable Fetal Health Prediction using Cardiotocography (CTG) Data
+An automated machine-learning system for fetal health prediction using cardiotocography (ctg) data
 
 # Tech Stack: Python, Data Profile, Boruta Algorithm, Model Stacking, Ensemble Learning 
 • Challenge: CTG datasets (2,126 records, 21 features) suffer from class imbalance and redundant features, causing baseline models to 
