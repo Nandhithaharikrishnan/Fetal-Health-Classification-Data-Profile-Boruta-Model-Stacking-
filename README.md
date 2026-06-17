@@ -20,34 +20,34 @@ Fetal health monitoring is critical for detecting early signs of fetal distress 
 
 🎯 Key Features
 # Automated End-to-End Pipeline
-Data preprocessing
-Feature engineering
-Feature selection
-Model training
-Prediction generation
-Explainability visualization
+Data preprocessing,
+Feature engineering,
+Feature selection,
+Model training,
+Prediction generation,
+Explainability visualization.
 # Explainable AI (XAI)
-SHAP Summary Plots
-SHAP Force Plots
-Global Feature Importance
-Local Prediction Explanations
+SHAP Summary Plots,
+SHAP Force Plots,
+Global Feature Importance,
+Local Prediction Explanations.
 # Advanced Feature Selection
-BorutaShap Algorithm
-Shadow Feature Comparison
-Clinically Relevant Predictor Identification
+BorutaShap Algorithm,
+Shadow Feature Comparison,
+Clinically Relevant Predictor Identification,
 # Ensemble Machine Learning
-Random Forest
-Gradient Boosting
-XGBoost
-Stacking Ensemble Architecture
+Random Forest,
+Gradient Boosting,
+XGBoost,
+Stacking Ensemble Architecture.
 # Class Imbalance Handling
-Class Weight Computation
-Sample Weight Optimization
-Improved Minority Class Detection
+Class Weight Computation,
+Sample Weight Optimization,
+Improved Minority Class Detection.
 # Interactive Deployment
-Streamlit Web Application
-Single Patient Prediction
-Batch CSV Prediction
+Streamlit Web Application,
+Single Patient Prediction,
+Batch CSV Prediction.
 
 # Performance Highlights
 
@@ -77,8 +77,7 @@ Seaborn
 Streamlit
 
 # Research Contributions
-This project introduces:
-Explainability-driven feature selection using BorutaShap SHAP-based medical interpretability Ensemble stacking architecture for fetal health prediction Automated CTG analysis pipeline Real-time prediction interface for healthcare applications
+This project introduces: Explainability-driven feature selection using BorutaShap SHAP-based medical interpretability Ensemble stacking architecture for fetal health prediction Automated CTG analysis pipeline Real-time prediction interface for healthcare applications
 
 # Patent Publication
 
