@@ -82,14 +82,14 @@ Explainability-driven feature selection using BorutaShap SHAP-based medical inte
 
 # Patent Publication
 
-Title: An Automated Machine-Learning System for Fetal Health Prediction Using Cardiotocography (CTG) Data
-Publication Number: IN202641024383 A1
-Publication Date: 13 March 2026
-Applicant: Vellore Institute of Technology (VIT)
+*Title: An Automated Machine-Learning System for Fetal Health Prediction Using Cardiotocography (CTG) Data
+*Publication Number: IN202641024383 A1
+*Publication Date: 13 March 2026
+*Applicant: Vellore Institute of Technology (VIT)
 
 # Future Enhancements
-Deep Learning-based CTG Classification
-Real-Time IoT Sensor Integration
-Cloud Deployment
-Electronic Health Record (EHR) Integration
-Mobile Healthcare Application
+*Deep Learning-based CTG Classification
+*Real-Time IoT Sensor Integration
+*Cloud Deployment
+*Electronic Health Record (EHR) Integration
+*Mobile Healthcare Application
